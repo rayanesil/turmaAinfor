@@ -1,0 +1,2 @@
+# turmaAinfor
+Projeto de supermercado
